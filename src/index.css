@@ -1,0 +1,46 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  background-color: #242424;
+}
+
+.wrapper {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 40px 20px;
+}
+
+.page {
+  margin-top: 70px;
+}
+
+.content {
+  margin-top: 30px;
+  padding: 30px;
+}
+
+.title {
+  margin-bottom: 16px;
+}
+
+.subtitle {
+  margin-top: 16px;
+}
+
+.form__error-message {
+  font-size: 14px;
+  color: tomato;
+}
+
+.ql-container {
+  height: 280px;
+}
+
+.ql-align-center {
+  text-align: center;
+}

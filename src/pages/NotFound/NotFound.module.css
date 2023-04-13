@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 120px;
+}
+
+.placeholder {
+  font-size: 64px;
+  font-weight: 700;
+  text-align: center;
+  color: #fff;
+}

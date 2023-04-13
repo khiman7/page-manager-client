@@ -1,0 +1,10 @@
+.page-list {
+  margin-top: 16px;
+  list-style: none;
+}
+
+.page-list__item {
+  padding: 12px 24px;
+  margin-top: 8px;
+}
+
